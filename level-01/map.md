@@ -1,44 +1,46 @@
 # Level 1 Map
 
 ```
-        ╔═════╗     ╔═════╗
-        ║     ║═════║     ║
-        ║  7  ║     ║  8  ║
-        ╚══◊══╝     ╚══◊══╝
+        ┏━━━━━┓     ┏━━━━━┓
+        ┃     ┃━━━━━┃     ┃
+        ┃  7  ┃     ┃  8  ┃
+        ┗━━◊━━┛     ┗━━◊━━┛
            ║           ║
            ║           ║
            ║           ║
-        ╔══◊══╗     ╔══◊══╗
-        ║     ║═════║     ║
-        ║  6  ║     ║  9  ║
-        ╚══◊══╝     ╚══◊══╝
+        ┏━━◊━━┓     ┏━━◊━━┓
+        ┃     ┃━━━━━┃     ┃
+        ┃  6  ┃     ┃  9  ┃
+        ┗━━◊━━┛     ┗━━◊━━┛
            ║           ║
    ╔═══╦═══╩═══╦═══════╬═══╗
    ║   ║       ║       ║   ║
-╔══◊══╦◊╦═════╦◊╦═════╦◊╦══◊══╗
-║     ╠═╣     ╠═╣     ╠═╣     ║
-║  1  ║ ║  2  ║ ║  3  ║ ║  4  ║
-╚═════╝ ╚══◊══╝ ╚══◊══╝ ╚══◊══╝
+┏━━◊━━┳◊┳━━━━━┳◊┳━━━━━┳◊┳━━◊━━┓
+┃     ┣━┫     ┣━┫     ┣━┫     ┃
+┃  1  ┃ ┃  2  ┃ ┃  3  ┃ ┃  4  ┃
+┗━━━━━┛ ┗━━◊━━┛ ┗━━◊━━┛ ┗━━◊━━┛
            ║       ║       ║
            ╚═══════╩═══════╝
                    ║
-                ╔══◊══╗
-                ║     ║
-                ║  5  ║
-                ╚══◊══╝
+                ┏━━◊━━┓
+                ┃     ┃
+                ┃  5  ┃
+                ┗━━◊━━┛
                    ║
-                ╔══◊══╗
-                ║     ║
-                ║ 10  ║
-                ╚═════╝
+                ┏━━◊━━┓
+                ┃     ┃
+                ┃ 10  ┃
+                ┗━━━━━┛
 ```
 
 ## Legend
 - Room numbers: 1-10
-- `═` and `║` = Walls (double lines)
-- `╔` `╗` `╚` `╝` = Corners (double lines)
-- `╦` `╩` `╠` `╣` `╬` = Wall junctions (double lines)
-- `░` = Passages between rooms
+- `━` and `┃` = Room walls (heavy solid lines)
+- `┏` `┓` `┗` `┛` = Room corners (heavy solid lines)
+- `┳` `┻` `┣` `┫` = Room wall junctions (heavy solid lines)
+- `═` and `║` = Corridors (light double lines)
+- `╔` `╗` `╚` `╝` = Corridor corners (light double lines)
+- `╦` `╩` `╠` `╣` `╬` = Corridor junctions (light double lines)
 - `◊` = Doors
 
 ## Layout Description
