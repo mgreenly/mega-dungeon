@@ -1,11 +1,9 @@
-# Room 1
+# Room 10
 
 **Dimensions:** 20' x 20'
 
 **Entrances & Exits:**
-- South: Entry point
-- North: Door
-- West: Corridor
+- North: Corridor
 
 **Description:**
 A square chamber with stone walls. Dust covers the floor.
