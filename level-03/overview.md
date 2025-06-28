@@ -80,19 +80,19 @@ Cool and humid, with pockets of feverish heat. The air is thick and oppressive, 
 ### Experience Point Goals
 - **Target**: 24,000 XP total (6 characters × 4,000 XP each)
 - **Distribution across 16 room encounters**:
-  - 1 difficult encounter
-  - 4 moderate encounters
-  - 11 easy encounters
+  - 2 hard encounters (12.5%)
+  - 3 moderate encounters (19%)
+  - 11 easy encounters (69%)
 
 ### Treasure Distribution
 Since experience is gained 1:1 from gold pieces:
 - **Total treasure needed**: 24,000 gp
-- **Difficult encounter (50%)**: 12,000 gp
-- **Moderate encounters (25%)**: 1,500 gp each (6,000 gp total)
-- **Easy encounters (25%)**: 545 gp each (5,995 gp total, rounded to 6,000 gp)
+- **Hard encounters (50%)**: 6,000 gp each (12,000 gp total)
+- **Moderate encounters (30%)**: 2,400 gp each (7,200 gp total)
+- **Easy encounters (20%)**: 436 gp each (4,796 gp total, rounded to 4,800 gp)
 
 ### Encounter Breakdown
-- **Difficult Encounter**: 1 × 12,000 gp = 12,000 gp
-- **Moderate Encounters**: 4 × 1,500 gp = 6,000 gp
-- **Easy Encounters**: 11 × 545 gp = 5,995 gp ≈ 6,000 gp
+- **Hard Encounters**: 2 × 6,000 gp = 12,000 gp
+- **Moderate Encounters**: 3 × 2,400 gp = 7,200 gp
+- **Easy Encounters**: 11 × 436 gp = 4,796 gp ≈ 4,800 gp
 - **Total**: 24,000 gp = 24,000 XP

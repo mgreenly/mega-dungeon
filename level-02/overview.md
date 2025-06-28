@@ -73,19 +73,19 @@ Cold but above freezing. The air is damp and clammy, with condensation constantl
 ### Experience Point Goals
 - **Target**: 12,000 XP total (6 characters × 2,000 XP each)
 - **Distribution across 14 room encounters**:
-  - 1 difficult encounter
-  - 3 moderate encounters
-  - 10 easy encounters
+  - 1 hard encounter (7%)
+  - 3 moderate encounters (21%)
+  - 10 easy encounters (71%)
 
 ### Treasure Distribution
 Since experience is gained 1:1 from gold pieces:
 - **Total treasure needed**: 12,000 gp
-- **Difficult encounter (50%)**: 6,000 gp
-- **Moderate encounters (25%)**: 1,000 gp each (3,000 gp total)
-- **Easy encounters (25%)**: 300 gp each (3,000 gp total)
+- **Hard encounter (50%)**: 6,000 gp
+- **Moderate encounters (30%)**: 1,200 gp each (3,600 gp total)
+- **Easy encounters (20%)**: 240 gp each (2,400 gp total)
 
 ### Encounter Breakdown
-- **Difficult Encounter**: 1 × 6,000 gp = 6,000 gp
-- **Moderate Encounters**: 3 × 1,000 gp = 3,000 gp
-- **Easy Encounters**: 10 × 300 gp = 3,000 gp
+- **Hard Encounter**: 1 × 6,000 gp = 6,000 gp
+- **Moderate Encounters**: 3 × 1,200 gp = 3,600 gp
+- **Easy Encounters**: 10 × 240 gp = 2,400 gp
 - **Total**: 12,000 gp = 12,000 XP

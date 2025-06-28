@@ -89,19 +89,19 @@ Hot and humid, with scalding steam in many areas. The corrupted springs maintain
 ### Experience Point Goals
 - **Target**: 96,000 XP total (6 characters × 16,000 XP each)
 - **Distribution across 20 room encounters**:
-  - 1 difficult encounter
-  - 4 moderate encounters
-  - 15 easy encounters
+  - 2 hard encounters (10%)
+  - 4 moderate encounters (20%)
+  - 14 easy encounters (70%)
 
 ### Treasure Distribution
 Since experience is gained 1:1 from gold pieces:
 - **Total treasure needed**: 96,000 gp
-- **Difficult encounter (50%)**: 48,000 gp
-- **Moderate encounters (25%)**: 12,000 gp each (48,000 gp total)
-- **Easy encounters (25%)**: 1,600 gp each (24,000 gp total)
+- **Hard encounters (50%)**: 24,000 gp each (48,000 gp total)
+- **Moderate encounters (30%)**: 7,200 gp each (28,800 gp total)
+- **Easy encounters (20%)**: 1,371 gp each (19,194 gp total, rounded to 19,200 gp)
 
 ### Encounter Breakdown
-- **Difficult Encounter**: 1 × 48,000 gp = 48,000 gp
-- **Moderate Encounters**: 4 × 12,000 gp = 48,000 gp
-- **Easy Encounters**: 15 × 1,600 gp = 24,000 gp
+- **Hard Encounters**: 2 × 24,000 gp = 48,000 gp
+- **Moderate Encounters**: 4 × 7,200 gp = 28,800 gp
+- **Easy Encounters**: 14 × 1,371 gp = 19,194 gp ≈ 19,200 gp
 - **Total**: 96,000 gp = 96,000 XP
