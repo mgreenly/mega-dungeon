@@ -42,6 +42,8 @@
 - `╔` `╗` `╚` `╝` = Corridor corners (light double lines)
 - `╦` `╩` `╠` `╣` `╬` = Corridor junctions (light double lines)
 - `◊` = Doors
+- `▤` = North-South stairs
+- `▥` = East-West stairs
 
 ## Layout Description
 - **Entry**: Room 1 (easternmost room) - door on east side is the dungeon entrance
