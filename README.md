@@ -12,11 +12,9 @@ A small, isolated hamlet perched high in the mountain forests, serving as the we
 ### The Discovery
 For untold ages, a massive glacier covered the western lands beyond Lastlight. Recent years have seen the ice retreating, and with it has come the revelation of an ancient structure of unknown origin and strange architecture. Word of this discovery has spread, drawing adventurers from far and wide who seek to be the first to plumb its depths and claim its treasures.
 
-## Adventure Themes
+## Adventure Theme
 
-- **Gothic Horror**: The dungeon features classic horror elements including vampires, werewolves, undead, and other creatures of the night
-- **Corrupted Nature**: Ancient magic has twisted the natural world, creating monstrous versions of common creatures
-- **Mystery of the Ancients**: Who built these ruins? Why were they buried beneath the ice? What secrets do they hold?
+The Never Ending Dungeon presents a harrowing descent from physical cold to spiritual corruption. Beginning in the frozen vestibule where centuries of ice have preserved ancient horrors, adventurers descend through weeping halls where sorrow has taken physical form, past fevered dormitories haunted by dream-spawned nightmares, and through twisted purification chambers that transform rather than cleanse. At the dungeon's heart lie the corrupted springs - once a sacred site of healing, now a source of mutations and disease where misguided faith breached primordial seals that should have remained forever closed. As the temperature rises with each level descended, so too does the horror intensify, creating a journey from frozen preservation through emotional trauma and physical corruption to the ultimate revelation of divine transformation gone terribly wrong.
 
 ## For Game Masters
 
