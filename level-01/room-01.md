@@ -23,7 +23,7 @@ The entrance hall lies in frozen ruin. Ancient pillars of black stone, cracked b
 - *Brittle*: Takes double damage from fire-based attacks
 - *Silent Guardian*: Surprises on 1-3 on 1d6 due to stillness
 
-The sentinel wears tattered robes that may once have been fine cloth. A frozen leather pouch at its belt contains 133 gp in ancient coins.
+The sentinel wears tattered robes that may once have been fine cloth. A frozen leather pouch at its belt contains 113 gp in ancient coins.
 
 **Treasure:**
-133 gp, cloak of protection +1 (500 XP)
+113 gp, cloak of protection +1 (500 XP)

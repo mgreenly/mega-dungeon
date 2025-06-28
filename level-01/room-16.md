@@ -14,4 +14,4 @@ Empty.
 Empty.
 
 **Treasure:**
-351 gp
+298 gp
