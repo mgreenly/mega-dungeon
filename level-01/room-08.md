@@ -1,5 +1,7 @@
 # Room 8
 
+**Difficulty:** Easy
+
 **Dimensions:** 
 
 **Entrances & Exits:**

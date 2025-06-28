@@ -1,5 +1,7 @@
 # Room 2
 
+**Difficulty:** 
+
 **Dimensions:** 
 
 **Entrances & Exits:**

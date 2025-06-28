@@ -1,5 +1,7 @@
 # Room 7
 
+**Difficulty:** Easy
+
 **Dimensions:** 
 
 **Entrances & Exits:**

@@ -1,5 +1,7 @@
 # Room 6
 
+**Difficulty:** 
+
 **Dimensions:** 
 
 **Entrances & Exits:**

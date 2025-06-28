@@ -1,5 +1,7 @@
 # Room 4
 
+**Difficulty:** 
+
 **Dimensions:** 
 
 **Entrances & Exits:**

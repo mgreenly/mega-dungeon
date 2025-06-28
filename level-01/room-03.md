@@ -1,5 +1,7 @@
 # Room 3
 
+**Difficulty:** 
+
 **Dimensions:** 
 
 **Entrances & Exits:**

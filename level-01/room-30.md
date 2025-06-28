@@ -1,12 +1,10 @@
-# Room 5
+# Room 30
 
 **Difficulty:** 
 
 **Dimensions:** 
 
 **Entrances & Exits:**
-- North: Corridor
-- South: Corridor
 
 **Description:**
 Empty.

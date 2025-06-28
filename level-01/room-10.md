@@ -1,5 +1,7 @@
 # Room 10
 
+**Difficulty:** 
+
 **Dimensions:** 
 
 **Entrances & Exits:**

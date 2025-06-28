@@ -1,5 +1,7 @@
 # Room 9
 
+**Difficulty:** 
+
 **Dimensions:** 
 
 **Entrances & Exits:**

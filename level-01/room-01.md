@@ -1,5 +1,7 @@
 # Room 1
 
+**Difficulty:** Easy
+
 **Dimensions:** 30' x 40'
 
 **Entrances & Exits:**

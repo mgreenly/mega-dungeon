@@ -1,12 +1,10 @@
-# Room 5
+# Room 13
 
-**Difficulty:** 
+**Difficulty:** Moderate
 
 **Dimensions:** 
 
 **Entrances & Exits:**
-- North: Corridor
-- South: Corridor
 
 **Description:**
 Empty.
