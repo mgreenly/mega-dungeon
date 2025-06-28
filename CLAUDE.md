@@ -63,4 +63,5 @@ When placing treasure in the dungeon:
 - **Magic Item Values**: 
   - +1 weapons, armor, and protective items are worth 500 gp
   - Potions of healing are worth 100 gp
+  - Spell scrolls are worth 500 gp per spell level
 - **Treasure Distribution**: Follow the dungeon math guidelines in each level's overview for appropriate treasure amounts by encounter difficulty
