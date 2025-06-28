@@ -14,3 +14,6 @@ Empty.
 
 **Contents:**
 Empty.
+
+**Treasure:**
+161 gp
