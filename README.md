@@ -1,4 +1,4 @@
-# The Glacial Ruins: A Mega-Dungeon Adventure
+# The Glacial Ruins
 
 ## Overview
 
