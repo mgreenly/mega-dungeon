@@ -8,7 +8,7 @@
 - South: Corridor
 
 **Description:**
-A square chamber with stone walls. Dust covers the floor.
+Empty.
 
 **Contents:**
 Empty.
