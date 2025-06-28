@@ -55,3 +55,12 @@ When creating content, ensure compatibility with Old School Essentials rules:
 - Keep descriptions concise and evocative
 - Include relevant game statistics (AC, HD, attacks, etc.) for creatures
 - Design encounters that can be resolved through combat, negotiation, or cleverness
+
+## Treasure Rules
+
+When placing treasure in the dungeon:
+- **Experience from Gold**: Characters gain 1 XP per 1 gp of treasure recovered
+- **Magic Item Values**: 
+  - +1 weapons, armor, and protective items are worth 500 gp
+  - Potions of healing are worth 100 gp
+- **Treasure Distribution**: Follow the dungeon math guidelines in each level's overview for appropriate treasure amounts by encounter difficulty
