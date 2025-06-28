@@ -15,4 +15,4 @@ Empty.
 Empty.
 
 **Treasure:**
-220 gp
+193 gp, shield +1

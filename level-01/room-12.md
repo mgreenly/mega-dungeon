@@ -16,4 +16,4 @@ Empty.
 Empty.
 
 **Treasure:**
-382 gp
+335 gp, leather armor +1
