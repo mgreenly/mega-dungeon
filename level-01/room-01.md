@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy
 
-**Dimensions:** 30' x 40'
+**Dimensions:** 30' x 40' (12 squares)
 
 **Entrances & Exits:**
 - South: Entry point
