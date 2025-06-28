@@ -20,6 +20,6 @@ Empty.
 - 7 gp (7 XP)
 - potion of healing (100 XP)
 - spell scroll (Protection from Evil, 500 XP)
+- artifact (10 XP)
 - gem (75 XP)
 - jewelry (40 XP)
-- artifact (10 XP)

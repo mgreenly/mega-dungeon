@@ -20,6 +20,6 @@ Empty.
 - 30 sp (3 XP)
 - 4 gp (4 XP)
 - spell scroll (Read Languages, 500 XP)
+- artifact (20 XP)
 - gem (40 XP)
 - jewelry (25 XP)
-- artifact (20 XP)

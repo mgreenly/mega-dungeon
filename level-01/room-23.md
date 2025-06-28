@@ -18,6 +18,6 @@ Empty.
 - 35 sp (3.5 XP)
 - 8 gp (8 XP)
 - potion of healing (100 XP)
+- artifact (25 XP)
 - gem (75 XP)
 - jewelry (45 XP)
-- artifact (25 XP)

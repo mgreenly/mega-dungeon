@@ -30,6 +30,6 @@ The sentinel wears tattered robes that may once have been fine cloth. A frozen l
 - 30 sp (3 XP)
 - 4 gp (4 XP)
 - cloak of protection +1 (500 XP)
+- artifact (10 XP)
 - gem (50 XP)
 - jewelry (25 XP)
-- artifact (10 XP)
