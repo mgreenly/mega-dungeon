@@ -5,6 +5,7 @@
 **Dimensions:** 
 
 **Entrances & Exits:**
+- East door (to room 24)
 
 **Description:**
 Empty.

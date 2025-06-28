@@ -5,6 +5,8 @@
 **Dimensions:** 
 
 **Entrances & Exits:**
+- North door (to corridor)
+- South door (to corridor)
 
 **Description:**
 Empty.

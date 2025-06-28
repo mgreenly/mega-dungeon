@@ -5,6 +5,9 @@
 **Dimensions:** 
 
 **Entrances & Exits:**
+- West door (to room 11)
+- East door (to room 13)
+- South door (to corridor)
 
 **Description:**
 Empty.

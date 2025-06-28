@@ -5,6 +5,8 @@
 **Dimensions:** 
 
 **Entrances & Exits:**
+- South door (to room 17)
+- North door (to corridor)
 
 **Description:**
 Empty.

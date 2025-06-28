@@ -5,6 +5,7 @@
 **Dimensions:** 
 
 **Entrances & Exits:**
+- North door (to room 18)
 
 **Description:**
 Empty.

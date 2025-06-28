@@ -5,6 +5,8 @@
 **Dimensions:** 
 
 **Entrances & Exits:**
+- West door (to room 28)
+- South door (to corridor)
 
 **Description:**
 Empty.

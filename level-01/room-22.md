@@ -5,6 +5,7 @@
 **Dimensions:** 
 
 **Entrances & Exits:**
+- West door (to room 21)
 
 **Description:**
 Empty.
