@@ -16,6 +16,10 @@ Empty.
 Empty.
 
 **Treasure:**
-- 221 gp
+- gem (100 gp)
+- jewelry (60 gp)
+- artifact (30 gp)
+- gem (10 gp)
+- 22 gp
 - leather armor +1 (500 XP)
 - spell scroll (Light, 500 XP)

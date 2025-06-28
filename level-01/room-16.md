@@ -14,4 +14,8 @@ Empty.
 Empty.
 
 **Treasure:**
-- 245 gp
+- jewelry (100 gp)
+- gem (70 gp)
+- artifact (35 gp)
+- book (20 gp)
+- 25 gp

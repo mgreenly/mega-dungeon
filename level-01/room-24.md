@@ -16,5 +16,8 @@ Empty.
 Empty.
 
 **Treasure:**
-- 93 gp
+- gem (40 gp)
+- jewelry (25 gp)
+- artifact (20 gp)
+- 9 gp
 - spell scroll (Read Languages, 500 XP)

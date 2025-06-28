@@ -15,6 +15,9 @@ Empty.
 Empty.
 
 **Treasure:**
-- 128 gp
+- gem (60 gp)
+- jewelry (35 gp)
+- artifact (20 gp)
+- 13 gp
 - shield +1 (500 XP)
 - potion of healing (100 XP)
