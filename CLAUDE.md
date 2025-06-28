@@ -6,8 +6,9 @@ You are helping to create content for a mega-dungeon adventure for Old School Es
 
 When working on this project, follow these organizational rules:
 
-- **Dungeon Levels**: Store each dungeon level in its own directory named `level-N` (where N is the level number: `level-1`, `level-2`, etc.)
+- **Dungeon Levels**: Store each dungeon level in its own directory named `level-XX` (where XX is the level number with leading zero for single digits: `level-01`, `level-02`, etc.)
 - **Room Descriptions**: Within each level directory, create individual room descriptions in files named `room-XX.md` (where XX is the room number with leading zero: `room-01.md`, `room-02.md`, etc.)
+- **Maps**: Any map files should also use leading zeros for consistency (e.g., `level-01-map.md`, `room-03-detail.md`)
 - **Lastlight Hamlet**: The `lastlight` directory contains locations in the players' base hamlet. Each location gets its own file (e.g., `the-tavern.md`, `the-smithy.md`)
 
 ## Formatting Rules
