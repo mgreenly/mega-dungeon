@@ -15,7 +15,10 @@ Empty.
 Empty.
 
 **Treasure:**
-- 110 gp (110 XP)
+- 250 cp (25 XP)
+- 300 sp (30 XP)
+- 45 gp (45 XP)
+- 2 pp (10 XP)
 - sword +1 (500 XP)
 - vase (250 XP)
 - book (200 XP)

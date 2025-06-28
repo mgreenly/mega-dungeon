@@ -14,7 +14,10 @@ Empty.
 Empty.
 
 **Treasure:**
-- 344 gp (344 XP)
+- 800 cp (80 XP)
+- 920 sp (92 XP)
+- 142 gp (142 XP)
+- 6 pp (30 XP)
 - potion of healing (100 XP)
 - bow +1 (500 XP)
 - axe +1 (500 XP)

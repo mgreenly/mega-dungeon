@@ -14,7 +14,10 @@ Empty.
 Empty.
 
 **Treasure:**
-- 98 gp (98 XP)
+- 240 cp (24 XP)
+- 250 sp (25 XP)
+- 44 gp (44 XP)
+- 1 pp (5 XP)
 - potion of healing (100 XP)
 - sculpture (250 XP)
 - gem (200 XP)
