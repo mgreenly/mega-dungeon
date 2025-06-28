@@ -60,6 +60,11 @@ When creating content, ensure compatibility with Old School Essentials rules:
 
 When placing treasure in the dungeon:
 - **Experience from Gold**: Characters gain 1 XP per 1 gp of treasure recovered
+- **Coin Type XP Values**:
+  - Copper pieces (cp): 1 XP per 100 cp
+  - Silver pieces (sp): 1 XP per 10 sp
+  - Gold pieces (gp): 1 XP per 1 gp
+  - Platinum pieces (pp): 5 XP per 1 pp
 - **Magic Item Values**: 
   - +1 weapons, armor, and protective items are worth 500 gp
   - Potions of healing are worth 100 gp

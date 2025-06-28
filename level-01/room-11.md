@@ -14,7 +14,7 @@ Empty.
 Empty.
 
 **Treasure:**
-- 800 cp (80 XP)
+- 800 cp (8 XP)
 - 920 sp (92 XP)
 - 142 gp (142 XP)
 - 6 pp (30 XP)
