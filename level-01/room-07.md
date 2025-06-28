@@ -15,4 +15,4 @@ Empty.
 Empty.
 
 **Treasure:**
-167 gp, potion of healing (100 XP), spell scroll (Protection from Evil)
+138 gp, potion of healing (100 XP), spell scroll (Protection from Evil)

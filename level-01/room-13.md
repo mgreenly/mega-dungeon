@@ -15,4 +15,4 @@ Empty.
 Empty.
 
 **Treasure:**
-1,331 gp
+1,094 gp, sword +1 (500 XP)

@@ -16,4 +16,4 @@ Empty.
 Empty.
 
 **Treasure:**
-113 gp, spell scroll (Read Languages)
+93 gp, spell scroll (Read Languages)
