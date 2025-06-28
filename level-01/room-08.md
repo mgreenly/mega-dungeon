@@ -7,6 +7,7 @@
 **Entrances & Exits:**
 - West: Corridor
 - South: Corridor
+- Down: Stone stairs descending to Level 2
 
 **Description:**
 Empty.
