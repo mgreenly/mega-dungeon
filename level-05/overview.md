@@ -86,22 +86,18 @@ Hot and humid, with scalding steam in many areas. The corrupted springs maintain
 
 ## Dungeon Math
 
-### Experience Point Goals
-- **Target**: 96,000 XP total (6 characters × 16,000 XP each)
-- **Distribution across 20 room encounters**:
-  - 2 hard encounters (10%)
-  - 4 moderate encounters (20%)
-  - 14 easy encounters (70%)
+### Level Goals
+- **Experience Target**: 96,000 XP (6 characters × 16,000 XP each)
+- **Total Encounters**: 20 rooms
+- **Treasure-to-XP Ratio**: 1 gp = 1 XP
 
-### Treasure Distribution
-Since experience is gained 1:1 from gold pieces:
-- **Total treasure needed**: 96,000 gp
-- **Hard encounters (50%)**: 24,000 gp each (48,000 gp total)
-- **Moderate encounters (30%)**: 7,200 gp each (28,800 gp total)
-- **Easy encounters (20%)**: 1,371 gp each (19,194 gp total, rounded to 19,200 gp)
+### Encounter Distribution
+| Difficulty | Count | % of Encounters | Treasure per Encounter | Total Treasure | % of Treasure |
+|------------|-------|-----------------|------------------------|----------------|---------------|
+| Hard       | 2     | 10%             | 24,000 gp              | 48,000 gp      | 50%           |
+| Moderate   | 4     | 20%             | 7,200 gp               | 28,800 gp      | 30%           |
+| Easy       | 14    | 70%             | 1,371 gp               | 19,194 gp      | 20%           |
+| **Total**  | **20**| **100%**        | -                      | **95,994 gp**  | **100%**      |
 
-### Encounter Breakdown
-- **Hard Encounters**: 2 × 24,000 gp = 48,000 gp
-- **Moderate Encounters**: 4 × 7,200 gp = 28,800 gp
-- **Easy Encounters**: 14 × 1,371 gp = 19,194 gp ≈ 19,200 gp
-- **Total**: 96,000 gp = 96,000 XP
+### Summary
+The 20 encounters provide 95,994 gp in treasure, yielding 95,994 XP total. This meets the target of 96,000 XP for the level.

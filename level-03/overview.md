@@ -77,22 +77,18 @@ Cool and humid, with pockets of feverish heat. The air is thick and oppressive, 
 
 ## Dungeon Math
 
-### Experience Point Goals
-- **Target**: 24,000 XP total (6 characters × 4,000 XP each)
-- **Distribution across 16 room encounters**:
-  - 2 hard encounters (12.5%)
-  - 3 moderate encounters (19%)
-  - 11 easy encounters (69%)
+### Level Goals
+- **Experience Target**: 24,000 XP (6 characters × 4,000 XP each)
+- **Total Encounters**: 16 rooms
+- **Treasure-to-XP Ratio**: 1 gp = 1 XP
 
-### Treasure Distribution
-Since experience is gained 1:1 from gold pieces:
-- **Total treasure needed**: 24,000 gp
-- **Hard encounters (50%)**: 6,000 gp each (12,000 gp total)
-- **Moderate encounters (30%)**: 2,400 gp each (7,200 gp total)
-- **Easy encounters (20%)**: 436 gp each (4,796 gp total, rounded to 4,800 gp)
+### Encounter Distribution
+| Difficulty | Count | % of Encounters | Treasure per Encounter | Total Treasure | % of Treasure |
+|------------|-------|-----------------|------------------------|----------------|---------------|
+| Hard       | 2     | 12.5%           | 6,000 gp               | 12,000 gp      | 50%           |
+| Moderate   | 3     | 19%             | 2,400 gp               | 7,200 gp       | 30%           |
+| Easy       | 11    | 69%             | 436 gp                 | 4,796 gp       | 20%           |
+| **Total**  | **16**| **100%**        | -                      | **23,996 gp**  | **100%**      |
 
-### Encounter Breakdown
-- **Hard Encounters**: 2 × 6,000 gp = 12,000 gp
-- **Moderate Encounters**: 3 × 2,400 gp = 7,200 gp
-- **Easy Encounters**: 11 × 436 gp = 4,796 gp ≈ 4,800 gp
-- **Total**: 24,000 gp = 24,000 XP
+### Summary
+The 16 encounters provide 23,996 gp in treasure, yielding 23,996 XP total. This meets the target of 24,000 XP for the level.

@@ -70,22 +70,18 @@ Cold but above freezing. The air is damp and clammy, with condensation constantl
 
 ## Dungeon Math
 
-### Experience Point Goals
-- **Target**: 12,000 XP total (6 characters × 2,000 XP each)
-- **Distribution across 14 room encounters**:
-  - 1 hard encounter (7%)
-  - 3 moderate encounters (21%)
-  - 10 easy encounters (71%)
+### Level Goals
+- **Experience Target**: 12,000 XP (6 characters × 2,000 XP each)
+- **Total Encounters**: 14 rooms
+- **Treasure-to-XP Ratio**: 1 gp = 1 XP
 
-### Treasure Distribution
-Since experience is gained 1:1 from gold pieces:
-- **Total treasure needed**: 12,000 gp
-- **Hard encounter (50%)**: 6,000 gp
-- **Moderate encounters (30%)**: 1,200 gp each (3,600 gp total)
-- **Easy encounters (20%)**: 240 gp each (2,400 gp total)
+### Encounter Distribution
+| Difficulty | Count | % of Encounters | Treasure per Encounter | Total Treasure | % of Treasure |
+|------------|-------|-----------------|------------------------|----------------|---------------|
+| Hard       | 1     | 7%              | 6,000 gp               | 6,000 gp       | 50%           |
+| Moderate   | 3     | 21%             | 1,200 gp               | 3,600 gp       | 30%           |
+| Easy       | 10    | 71%             | 240 gp                 | 2,400 gp       | 20%           |
+| **Total**  | **14**| **100%**        | -                      | **12,000 gp**  | **100%**      |
 
-### Encounter Breakdown
-- **Hard Encounter**: 1 × 6,000 gp = 6,000 gp
-- **Moderate Encounters**: 3 × 1,200 gp = 3,600 gp
-- **Easy Encounters**: 10 × 240 gp = 2,400 gp
-- **Total**: 12,000 gp = 12,000 XP
+### Summary
+The 14 encounters provide 12,000 gp in treasure, yielding 12,000 XP total. This meets the target of 12,000 XP for the level.
