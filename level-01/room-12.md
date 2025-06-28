@@ -16,4 +16,6 @@ Empty.
 Empty.
 
 **Treasure:**
-221 gp, leather armor +1 (500 XP), spell scroll (Light)
+- 221 gp
+- leather armor +1 (500 XP)
+- spell scroll (Light, 500 XP)

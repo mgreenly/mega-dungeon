@@ -14,4 +14,5 @@ Empty.
 Empty.
 
 **Treasure:**
-979 gp, potion of healing (100 XP)
+- 979 gp
+- potion of healing (100 XP)

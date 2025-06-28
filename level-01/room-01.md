@@ -26,4 +26,5 @@ The entrance hall lies in frozen ruin. Ancient pillars of black stone, cracked b
 The sentinel wears tattered robes that may once have been fine cloth. A frozen leather pouch at its belt contains 93 gp in ancient coins.
 
 **Treasure:**
-93 gp, cloak of protection +1 (500 XP)
+- 93 gp
+- cloak of protection +1 (500 XP)
