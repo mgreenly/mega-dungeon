@@ -42,7 +42,7 @@
 - `◊` = Doors
 
 ## Layout Description
-- **Entry**: Room 1 (easternmost room)
+- **Entry**: Room 1 (easternmost room) - door on east side is the dungeon entrance
 - **Main Corridor**: Connects rooms 1 through 4 horizontally
 - **Central Junction**: Large hallway system connecting upper and lower sections
 - **Upper Loop**: Rooms 6-7-8-9 form an interconnected loop
