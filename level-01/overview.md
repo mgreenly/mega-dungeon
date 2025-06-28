@@ -65,3 +65,25 @@ This level serves as a transition from the outside world into the dungeon proper
 ## Temperature
 
 Below freezing throughout, with ice formations common. The coldest level of the dungeon, requiring appropriate gear or magical protection for extended exploration. Temperature rises slightly near passages leading down, where warmer air creates condensation and slow melting.
+
+## Dungeon Math
+
+### Experience Point Goals
+- **Target**: 12,000 XP total (6 characters × 2,000 XP each)
+- **Distribution across 20 room encounters**:
+  - 1 difficult encounter
+  - 4 moderate encounters
+  - 15 easy encounters
+
+### Treasure Distribution
+Since experience is gained 1:1 from gold pieces:
+- **Total treasure needed**: 12,000 gp
+- **Difficult encounter (50%)**: 6,000 gp
+- **Moderate encounters (25%)**: 1,500 gp each (6,000 gp total)
+- **Easy encounters (25%)**: 200 gp each (3,000 gp total)
+
+### Encounter Breakdown
+- **Difficult Encounter**: 1 × 6,000 gp = 6,000 gp
+- **Moderate Encounters**: 4 × 1,500 gp = 6,000 gp
+- **Easy Encounters**: 15 × 200 gp = 3,000 gp
+- **Total**: 12,000 gp = 12,000 XP

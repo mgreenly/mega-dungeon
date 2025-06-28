@@ -67,3 +67,25 @@ This level reveals the emotional weight of the pilgrimage site - not just physic
 ## Temperature
 
 Cold but above freezing. The air is damp and clammy, with condensation constantly forming on every surface. The temperature hovers just warm enough for water to flow freely, creating the perpetual weeping that defines these halls.
+
+## Dungeon Math
+
+### Experience Point Goals
+- **Target**: 12,000 XP total (6 characters × 2,000 XP each)
+- **Distribution across 20 room encounters**:
+  - 1 difficult encounter
+  - 4 moderate encounters
+  - 15 easy encounters
+
+### Treasure Distribution
+Since experience is gained 1:1 from gold pieces:
+- **Total treasure needed**: 12,000 gp
+- **Difficult encounter (50%)**: 6,000 gp
+- **Moderate encounters (25%)**: 1,500 gp each (6,000 gp total)
+- **Easy encounters (25%)**: 200 gp each (3,000 gp total)
+
+### Encounter Breakdown
+- **Difficult Encounter**: 1 × 6,000 gp = 6,000 gp
+- **Moderate Encounters**: 4 × 1,500 gp = 6,000 gp
+- **Easy Encounters**: 15 × 200 gp = 3,000 gp
+- **Total**: 12,000 gp = 12,000 XP

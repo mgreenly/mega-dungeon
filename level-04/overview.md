@@ -75,3 +75,25 @@ This level reveals the insidious nature of the corruption - not through violence
 ## Temperature
 
 Warm and humid, with a comforting heat that feels like a gentle embrace. The air is thick with sweet incense and healing vapors that rise from below. The warmth seems to ease aches and pains, making visitors drowsy and compliant. What feels like divine warmth is actually the first touch of the corruption rising from the springs below.
+
+## Dungeon Math
+
+### Experience Point Goals
+- **Target**: 48,000 XP total (6 characters × 8,000 XP each)
+- **Distribution across 20 room encounters**:
+  - 1 difficult encounter
+  - 4 moderate encounters
+  - 15 easy encounters
+
+### Treasure Distribution
+Since experience is gained 1:1 from gold pieces:
+- **Total treasure needed**: 48,000 gp
+- **Difficult encounter (50%)**: 24,000 gp
+- **Moderate encounters (25%)**: 6,000 gp each (24,000 gp total)
+- **Easy encounters (25%)**: 800 gp each (12,000 gp total)
+
+### Encounter Breakdown
+- **Difficult Encounter**: 1 × 24,000 gp = 24,000 gp
+- **Moderate Encounters**: 4 × 6,000 gp = 24,000 gp
+- **Easy Encounters**: 15 × 800 gp = 12,000 gp
+- **Total**: 48,000 gp = 48,000 XP

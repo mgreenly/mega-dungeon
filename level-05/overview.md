@@ -83,3 +83,25 @@ This is the heart of the dungeon's corruption - where the descent from frozen pr
 ## Temperature
 
 Hot and humid, with scalding steam in many areas. The corrupted springs maintain their geothermal heat, creating an oppressive, swamp-like atmosphere. Visibility is often limited by steam, and metal equipment quickly develops rust. The heat is a stark contrast to the frozen entrance five levels above.
+
+## Dungeon Math
+
+### Experience Point Goals
+- **Target**: 96,000 XP total (6 characters × 16,000 XP each)
+- **Distribution across 20 room encounters**:
+  - 1 difficult encounter
+  - 4 moderate encounters
+  - 15 easy encounters
+
+### Treasure Distribution
+Since experience is gained 1:1 from gold pieces:
+- **Total treasure needed**: 96,000 gp
+- **Difficult encounter (50%)**: 48,000 gp
+- **Moderate encounters (25%)**: 12,000 gp each (48,000 gp total)
+- **Easy encounters (25%)**: 1,600 gp each (24,000 gp total)
+
+### Encounter Breakdown
+- **Difficult Encounter**: 1 × 48,000 gp = 48,000 gp
+- **Moderate Encounters**: 4 × 12,000 gp = 48,000 gp
+- **Easy Encounters**: 15 × 1,600 gp = 24,000 gp
+- **Total**: 96,000 gp = 96,000 XP
