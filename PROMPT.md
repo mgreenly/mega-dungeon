@@ -38,6 +38,16 @@ The adventure setting:
 - **The Discovery**: The melting ice has revealed an ancient structure of mysterious architecture
 - **Player Role**: Adventurers drawn by rumors, seeking to be the first to explore this uncovered ruin
 
+### Dungeon Level Summary
+
+**Temperature Gradient**: The dungeon warms as you descend, from frozen at the surface to hot springs at the bottom.
+
+- **Level 1 - The Frozen Vestibule**: Ice-damaged entrance halls with frozen guardians and ice goblins
+- **Level 2 - The Weeping Halls**: Constantly dripping chambers where sorrow has taken physical form
+- **Level 3 - The Fevered Dormitories**: Plague-ridden sleeping quarters haunted by dream-born nightmares
+- **Level 4 - The Purification Chambers**: Twisted ritual rooms where "cleansing" means horrific transformation
+- **Level 5 - The Corrupted Springs**: The source of corruption - former healing pools now spreading mutations
+
 ## OSE Compatibility
 
 When creating content, ensure compatibility with Old School Essentials rules:

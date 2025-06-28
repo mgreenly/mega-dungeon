@@ -11,16 +11,18 @@ The dormitories were built to house the many pilgrims who traveled from afar see
 ## Key Elements
 
 - **Dream Plague**: An ancient sickness that spreads through shared dreams, causing physical mutations
-- **Nightmare Spawn**: Creatures literally born from the fevered dreams of dying pilgrims
+- **Nightmare Spawn**: Creatures that literally tear themselves free from the fevered dreams of dying pilgrims, emerging as physical horrors from sleeping victims
+- **The Birthing Dreams**: Specific nightmares so intense they manifest as living creatures, crawling from the mouths and eyes of dreamers
 - **Somnambulists**: Infected beings trapped between sleep and waking, moving through routines from centuries past
 - **Living Bedding**: Corrupted moss and fungi that have consumed old mattresses, inducing hallucinations
 
 ## Unique Features
 
 - **Shifting Dormitories**: Halls where reality bends based on the dreams of those who died there
-- **The Fever Ward**: Where the most afflicted were quarantined, now a breeding ground for disease
-- **Dream Journals**: Written accounts that cause readers to experience the writer's nightmares
+- **The Fever Ward**: Where the most afflicted were quarantined, now a breeding ground where nightmares physically manifest
+- **Dream Journals**: Written accounts that cause readers to experience the writer's nightmares - and risk spawning them
 - **The Waking Chapel**: Where pilgrims prayed for peaceful sleep, now ensures eternal insomnia
+- **The Nightmare Nursery**: Beds where particularly virulent dreams gestate until ready to emerge as living horrors
 - **Communal Baths**: Once for cleansing, now filled with tepid water that carries the dream contagion
 - **The Sleepwalker's Maze**: Corridors that rearrange based on the paths of ancient somnambulists
 

@@ -2,53 +2,53 @@
 
 ## Theme
 
-The level where pilgrims underwent ritual cleansing before entering the sacred springs below. Now these purification rites have become grotesque parodies - the chambers transform flesh rather than cleanse it, preparing bodies for the corrupted baptism that awaits. What was once a place of spiritual preparation has become a factory of flesh.
+The level where pilgrims underwent ritual cleansing before entering the sacred springs below. These purification rites have been subtly corrupted - what appears as cleansing actually transforms the faithful in ways they don't immediately realize. The priests still believe they prepare souls for divine healing, not understanding that their rituals now open bodies and minds to the corruption waiting below.
 
 ## History
 
-Built as the final preparation area before the sacred springs, these chambers once held a staff of devoted priests who guided pilgrims through cleansing rituals. When the corruption was released from below, these priests were the first to embrace it, believing it to be a new form of divine blessing. They modified their rituals to "perfect" rather than purify, turning sacred rites into horrific transformations.
+Built as the final preparation area before the sacred springs, these chambers once held a staff of devoted priests who guided pilgrims through cleansing rituals. When the corruption seeped up from below, it infiltrated their practices so gradually that the priests never noticed. They continue their holy work with complete sincerity, unaware that their blessed waters now carry subtle taints and their prayers invoke something far different than intended.
 
 ## Key Elements
 
-- **Twisted Rituals**: Cleansing ceremonies that now strip away humanity rather than impurity
-- **The Penitent**: Former priests and attendants fused with their purification tools
-- **Metamorphic Waters**: Pre-corrupted pools that cause controlled mutations
-- **Living Censers**: Breathing apparatus that filter corruption into the air
+- **Corrupted Sacraments**: Holy rituals that subtly prepare the body for transformation
+- **The Blessed Deceived**: Priests who genuinely believe they're helping, blind to the changes they cause
+- **Metamorphic Waters**: Blessed pools that seem to heal minor ailments while making deeper changes
+- **Sacred Incense**: Holy smoke that calms the mind while opening it to corruption
 
 ## Unique Features
 
-- **Preparation Chambers**: Rooms with surgical altars for "improving" pilgrims before their descent
-- **The Flaying Pools**: Where skin was ritually removed to "purify" the flesh beneath
-- **Steam Chambers**: Filled with mutagenic vapors rising from below
-- **The Garden of New Forms**: Where "purified" beings display their transformations
-- **Confession Engines**: Mechanical devices that extract sin through physical manipulation
-- **The Vesting Halls**: Where ceremonial garments now graft themselves to flesh
-- **Purge Fountains**: Once for ritual washing, now spray caustic transformation fluids
+- **Preparation Chambers**: Prayer rooms where pilgrims receive "blessings" that subtly alter their flesh
+- **The Pools of Renewal**: Waters that ease pain and heal wounds, while making bodies receptive to change
+- **Steam Chambers**: Filled with "holy" vapors that induce religious visions and physical malleability
+- **The Garden of Grace**: Where those who've undergone the rituals rest, slowly transforming
+- **Confession Alcoves**: Intimate spaces where sins are forgiven and souls made "ready" for what comes below
+- **The Vesting Halls**: Where blessed garments impart "divine protection" that actually marks wearers for transformation
+- **Fountains of Absolution**: Sacred waters that wash away doubt along with natural resistance to corruption
 
 ## Inhabitants
 
-- **Surgeon-Priests**: Mad clerics who still perform their "sacred" duties
-- **The Flayed**: Skinless beings who seek new flesh to wear
-- **Purification Golems**: Constructs of soap, salt, and bone that scour everything
-- **Incense Wraiths**: Vaporous beings that inhabit the smoke-filled chambers
-- **The High Cleanser**: A unique being that oversees the transformation process
-- **Penitent Crawlers**: Those undergoing "purification" who drag themselves between chambers
+- **Faithful Priests**: Devoted clerics who perform their duties with complete sincerity, unaware of what they've become
+- **The Blessed**: Pilgrims in various stages of transformation who thank the priests for their "healing"
+- **Purification Servants**: Temple attendants whose years of exposure have left them strangely changed
+- **Incense Bearers**: Acolytes who breathe the sacred smoke and speak in voices not quite their own
+- **The High Confessor**: The eldest priest who remembers the old ways but can no longer see how they've changed
+- **Grateful Penitents**: Those who've undergone the rituals and now eagerly await their descent to the springs
 
 ## Environmental Hazards
 
-- **Caustic Mists**: Cleaning vapors that dissolve organic matter
-- **Transformation Pools**: Waters that cause specific, controlled mutations
-- **Purity Flames**: White fires that burn away "imperfections"
-- **Confession Chambers**: Rooms that physically extract secrets and sins
+- **Blessed Vapors**: Holy mists that bring peace while subtly altering perception
+- **Waters of Grace**: Pools that heal superficial wounds but leave deeper marks
+- **Cleansing Light**: Sacred flames that feel warm and comforting while changing what they touch
+- **Overwhelming Peace**: Areas of such serenity that visitors lose the will to leave or resist
 
 ## Special Mechanics
 
-**The Purification Process**: Follows twisted versions of the original rites:
-1. **Confession**: Physical extraction of sin through mechanical devices
-2. **Ablution**: Bathing in mutagenic waters
-3. **Flaying**: Removal of "impure" flesh
-4. **Vestment**: Donning of transformative garments
-5. **Benediction**: Final "blessing" that completes the change
+**The Purification Process**: Appears to follow traditional holy rites:
+1. **Confession**: Unburdening of sins that actually opens the soul to influence
+2. **Ablution**: Ritual bathing that cleanses while making the body malleable
+3. **Anointing**: Sacred oils that smell of roses while seeping corruption into the skin
+4. **Vestment**: Donning blessed robes that gradually merge with the wearer
+5. **Benediction**: Final blessing that feels like divine grace while sealing one's fate
 
 ## Connections
 
@@ -57,21 +57,21 @@ The dream-sick from Level 3 would descend here, believing the purification chamb
 ## Wandering Monsters
 
 Roll 1d6 every 2 turns:
-1. Surgeon-Priests (1d2)
-2. The Flayed (1d3)
-3. Purification Golem
-4. Incense Wraiths (1d4)
-5. Penitent Crawlers (1d6)
+1. Faithful Priests (1d2) performing blessings
+2. Grateful Pilgrims (1d4) praising the rituals
+3. Purification Servant carrying holy items
+4. Incense Bearers (1d3) spreading blessed smoke
+5. The Blessed (1d6) in various stages of change
 6. No encounter
 
 ## Treasure
 
-Ceremonial items of great value (though often cursed), surgical instruments made of precious metals, transformative elixirs and salves, and the accumulated offerings of those seeking purification. The vestment chambers contain robes woven with gold and silver threads.
+Holy relics and ceremonial items of great value (subtly corrupted), blessed oils and healing salves (with hidden effects), prayer books and scrolls of benediction (that invoke unintended powers), and the accumulated offerings of grateful pilgrims. The vestment chambers contain robes woven with gold and silver threads that seem to move on their own.
 
 ## Narrative Purpose
 
-This level reveals the deliberate nature of the corruption - not mere disease or decay, but a conscious transformation process. The horror shifts from infection to intentional bodily modification, preparing visitors for the "blessed" mutations of Level 5. It shows that the corruption below isn't accidental but part of a twisted religious practice.
+This level reveals the insidious nature of the corruption - not through violence or obvious horror, but through sincere faith turned unknowingly wrong. The true horror lies in the priests' genuine belief that they're helping, and the pilgrims' gratitude for their "healing." It shows how corruption can wear the mask of holiness, preparing visitors for the springs below not through force, but through their own eager participation in their transformation.
 
 ## Temperature
 
-Warm and humid, with scalding steam in many areas. The heat increases noticeably as one descends, and the air is thick with incense, chemical vapors, and the steam rising from the corrupted springs below. The temperature varies from uncomfortably warm to areas of blistering heat near the purification devices. The oppressive atmosphere makes it clear that the infernal springs are very close.
+Warm and humid, with a comforting heat that feels like a gentle embrace. The air is thick with sweet incense and healing vapors that rise from below. The warmth seems to ease aches and pains, making visitors drowsy and compliant. What feels like divine warmth is actually the first touch of the corruption rising from the springs below.
