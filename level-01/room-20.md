@@ -15,7 +15,7 @@ Empty.
 Empty.
 
 **Treasure:**
-- gem (50 gp)
-- jewelry (25 gp)
-- artifact (20 gp)
-- 11 gp
+- 11 gp (11 XP)
+- gem (50 XP)
+- jewelry (25 XP)
+- artifact (20 XP)
