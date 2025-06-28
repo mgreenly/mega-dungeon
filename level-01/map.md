@@ -44,6 +44,7 @@
 - `◊` = Doors
 - `▤` = North-South stairs
 - `▥` = East-West stairs
+- `┋` and `┈` = Portcullis
 
 ## Layout Description
 - **Entry**: Room 1 (easternmost room) - door on east side is the dungeon entrance
