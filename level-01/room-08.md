@@ -1,6 +1,6 @@
 # Room 8
 
-**Dimensions:** 20' x 20'
+**Dimensions:** 
 
 **Entrances & Exits:**
 - West: Corridor

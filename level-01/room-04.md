@@ -1,6 +1,6 @@
 # Room 4
 
-**Dimensions:** 20' x 20'
+**Dimensions:** 
 
 **Entrances & Exits:**
 - West: Door

@@ -1,6 +1,6 @@
 # Room 6
 
-**Dimensions:** 20' x 20'
+**Dimensions:** 
 
 **Entrances & Exits:**
 - North: Corridor
